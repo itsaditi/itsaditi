@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aditi Patade</h1>
 <h3 align="center">Software Development Engineer II | Full Stack Developer | AWS & AI Enthusiast</h3>
 
-<p>
+<p align="center">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
@@ -19,10 +19,11 @@
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>
 <a href="https://cursor.com/" target="_blank" rel="noreferrer"><img src="https://cursor.com/favicon.ico" alt="cursor" width="40" height="40"/></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/></a>
-
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsaditi&label=Profile%20views&color=0e75b6&style=flat" alt="itsaditi" /> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=itsaditi&label=Profile%20views&color=0e75b6&style=flat" alt="itsaditi" />
+</p>
 
 - Current Project: [Context First AI Engine](https://github.com/itsaditi/ai-first-context-engine)
 
